@@ -43,3 +43,22 @@ No sensitive tenant details are published.
 ## Status
 
 In progress.
+
+---
+*Security and Privacy Notice*
+
+*This repository is for portfolio and lab demonstration purposes only.*
+
+*It does not contain:*
+
+- *Real business data*
+- *Live customer data*
+- *Passwords*
+- *Access tokens*
+- *Tenant secrets*
+- *Private keys*
+- *Full tenant IDs*
+- *Unredacted email addresses*
+- *Confidential screenshots*
+
+*All screenshots and examples are redacted before publication.*
